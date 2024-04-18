@@ -65,7 +65,7 @@ Your work will result in:
 ### Creating multiple pages
 
 - [ ] In the same directory as `index.html`, create another file named `about.html`
-- [ ] In `about.html`, use the emet abbreviation again to generate the necessary HTML boiler plate.
+- [ /] In `about.html`, use the emet abbreviation again to generate the necessary HTML boiler plate.
 - [ ] Inside of `<body>`, put in a `<p>` tag to inform us of which page we are on (About, in this case.)
 - [ ] Create two more pages in the exact fashion you created `about.html`. These are your unique invention and should have unique names.
 - [ ] Don't forget to change the `<title>` tag content to reflect which page the user is on.
@@ -74,7 +74,7 @@ Your work will result in:
 
 - [ ] Back in `index.html`,  return to the `<a href>`s in `<nav>`.
 - [ ] For the first `<a href>`, point the link to `/about.html`. Name this link "About".
-- [ ] Fill out the other two `<a href>`s so that they correspond to the two additional pages that you created.
+- [*] Fill out the other two `<a href>`s so that they correspond to the two additional pages that you created.
 
 ## Review
 
