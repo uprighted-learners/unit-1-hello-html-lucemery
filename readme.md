@@ -30,8 +30,8 @@ Your work will result in:
 
 ### Using the `!` HTML Emet Abbreviation
 
-- [ ] Inside of `index.html`, type `!` and press `Tab`.
-- [ ] This should create an empty HTML template for you to use.
+- [/] Inside of `index.html`, type `!` and press `Tab`.
+- [/] This should create an empty HTML template for you to use.
 
 ```html
 <!DOCTYPE html>
@@ -50,31 +50,31 @@ Your work will result in:
 
 ### Creating our HTML Layout
 
-- [ ] Your tags to create this layout will live inside of the `<body>` tag pair. This is true for every website you build.
-- [ ] Your `<title>` tag should contain the name of the page. (Home, in this case).
-- [ ] In our website, we will need the following semantic div tags: `<header>`, `<nav>`, and `<main>`. Be sure to include their closing tag.
+- [/] Your tags to create this layout will live inside of the `<body>` tag pair. This is true for every website you build.
+- [/] Your `<title>` tag should contain the name of the page. (Home, in this case).
+- [/] In our website, we will need the following semantic div tags: `<header>`, `<nav>`, and `<main>`. Be sure to include their closing tag.
 
 ### Filling out placeholder content
 
-- [ ] `<header>` Should contain a title for the page.
-- [ ] `<nav>`Should contain at least three`<a href>`s that will navigate to other pages on the site. Leave them blank for now.
-- [ ] `<main>` Should contain placeholder text and `<img>`s.
-- [ ] To generate placeholder text in VSCode, type `lorem100` and push `Enter`. This will generate 100 words of placeholder text. You can change 100 to be whatever amount of words you want. `lorem5000` is also valid.
-- [ ] To access placeholder images, here are a few options to try: [Lorem Flickr](https://loremflickr.com/), [Placekitten](https://placekitten.com/). [Lorem Picsum](https://picsum.photos/).
+- [/] `<header>` Should contain a title for the page.
+- [/] `<nav>`Should contain at least three`<a href>`s that will navigate to other pages on the site. Leave them blank for now.
+- [/] `<main>` Should contain placeholder text and `<img>`s.
+- [/] To generate placeholder text in VSCode, type `lorem100` and push `Enter`. This will generate 100 words of placeholder text. You can change 100 to be whatever amount of words you want. `lorem5000` is also valid.
+- [/] To access placeholder images, here are a few options to try: [Lorem Flickr](https://loremflickr.com/), [Placekitten](https://placekitten.com/). [Lorem Picsum](https://picsum.photos/).
 
 ### Creating multiple pages
 
-- [ ] In the same directory as `index.html`, create another file named `about.html`
-- [ /] In `about.html`, use the emet abbreviation again to generate the necessary HTML boiler plate.
-- [ ] Inside of `<body>`, put in a `<p>` tag to inform us of which page we are on (About, in this case.)
-- [ ] Create two more pages in the exact fashion you created `about.html`. These are your unique invention and should have unique names.
-- [ ] Don't forget to change the `<title>` tag content to reflect which page the user is on.
+- [/] In the same directory as `index.html`, create another file named `about.html`
+- [/] In `about.html`, use the emet abbreviation again to generate the necessary HTML boiler plate.
+- [/] Inside of `<body>`, put in a `<p>` tag to inform us of which page we are on (About, in this case.)
+- [/] Create two more pages in the exact fashion you created `about.html`. These are your unique invention and should have unique names.
+- [/] Don't forget to change the `<title>` tag content to reflect which page the user is on.
 
 ### Linking to our new pages
 
-- [ ] Back in `index.html`,  return to the `<a href>`s in `<nav>`.
-- [ ] For the first `<a href>`, point the link to `/about.html`. Name this link "About".
-- [*] Fill out the other two `<a href>`s so that they correspond to the two additional pages that you created.
+- [/] Back in `index.html`,  return to the `<a href>`s in `<nav>`.
+- [/] For the first `<a href>`, point the link to `/about.html`. Name this link "About".
+- [/] Fill out the other two `<a href>`s so that they correspond to the two additional pages that you created.
 
 ## Review
 
